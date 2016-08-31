@@ -62,18 +62,33 @@ h2 a{
 }
 
  .unoa{
-	width: 110%;
+	width: 70%;
 	margin: 0 auto;
+	float: left;
 
 }
 
 .unoa img{
-	float: left;
-	width: 100%;
-	margin-left: 15%
+	display: inline-block;
+	text-align: center;
+	width: 150%;
+	margin-left: 20%
 }
 
+/*section*/
+img .dosa{
+	padding: 20%;
 
+}
+
+aside{
+	float: left;
+	width: 30%;
+}
+
+.aside{
+	width: 100%;
+}
 
 
 
