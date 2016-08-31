@@ -1,0 +1,79 @@
+/* Inserta tu código aqui */
+body{
+	background-color: white;
+}
+/*header*/
+.cabeza{
+	background-color: #333232;
+	margin: auto;
+	
+
+}
+.logo {
+	padding-left: 2%;
+
+}
+
+nav{
+	float: right;
+	padding-top: 6%;
+	padding-right: 3%;
+	text-align: center;
+}
+.menu a{
+
+	color: #FFFDFD;
+	text-decoration: none;
+	font-family: arial bold;
+	display: inline-block;
+	line-height: normal;
+	margin-left: 1%;
+	text-align: center;
+	
+	
+}
+
+/*section*/
+
+h2 a{
+	font-size: 15px;
+	text-decoration: none;
+	color: #4744B1;
+}
+
+.uno{
+	background-color: #ECE7E7;
+	border-bottom: #DAD8D8 solid;
+
+
+}
+
+.uno img{
+	width: 100%;
+	margin-bottom: 20%;
+	margin-top: 3%;
+	border: inset;
+	border-color: #EEEAEA;
+}
+
+.uno h2{
+	margin-top: 1%;
+	margin-left: 2%;
+}
+
+ .unoa{
+	width: 110%;
+	margin: 0 auto;
+
+}
+
+.unoa img{
+	float: left;
+	width: 100%;
+	margin-left: 15%
+}
+
+
+
+
+
